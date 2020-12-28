@@ -1,2 +1,2 @@
 # snakegame
-jogo da cobrinha com JavaScript
+reprodução do jogo da cobrinha com JavaScript
